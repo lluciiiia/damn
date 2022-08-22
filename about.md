@@ -19,7 +19,7 @@ Major : Software Engineering
 
 Contact : 0617lucia@gmail.com (Personal account)
 
-s3939114@rmit.edu.vn (Student account)
+   s3939114@rmit.edu.vn (Student account)
           
           
           
