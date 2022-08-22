@@ -8,9 +8,13 @@ main_nav: true
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
 Name : Lucia (Seokyung Kim)
+
 Nationality : South Korea
+
 Age : 2003/06/17
+
 School : Rmit
+
 Major : Software Engineering
 
 
