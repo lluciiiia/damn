@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It will be posted on Aug 29"
-date:   2015-04-19 08:43:59
+date:   2022-08-29 08:43:59
 author: Lucia Kim (Seokyung Kim)
 categories: Dummy
 tags: lorem ipsum
