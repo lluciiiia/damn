@@ -7,6 +7,8 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/Seokyung_Kim_Profile.jpg "Profile Picture"){:.profile}
 
+
+
 Name : Lucia Kim (Seokyung Kim)
 
 Nationality : South Korea
@@ -21,7 +23,10 @@ Contact : 0617lucia@gmail.com (Personal account)
 
    s3939114@rmit.edu.vn (Student account)
           
-          
+  
+  
+  
+  
           
 
 
