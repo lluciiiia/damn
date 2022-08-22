@@ -4,10 +4,9 @@ title:  "It will be posted on Aug 29"
 date:   2015-04-19 08:43:59
 author: Lucia Kim (Seokyung Kim)
 categories: Dummy
-tags: lorem ipsum
----
-
+tags: Rmit Software_Engineering
 cover: "/assets/cover_IMG_0737.jpg"
+---
 
 This is just a dummy post. Lorem ipsum and all the rest.
 
