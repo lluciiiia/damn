@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/Seokyung_Kim_Profile.jpg "Profile Picture"){:.profile}
 
 Name : Lucia Kim (Seokyung Kim)
 
