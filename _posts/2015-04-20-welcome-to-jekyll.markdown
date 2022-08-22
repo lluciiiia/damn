@@ -4,7 +4,7 @@ title:  Reflective Journal 1
 date:   2022-08-22 18:43:59
 author: Lucia
 categories: Reflective Journal
-tags:	jekyll welcome
+tags:	Rmit SoftwareEngineering
 cover:  "/assets/instacode.png"
 ---
 
