@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dummy Post"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
+title:  "Reflective Journal 1"
+date:   2022-08-22T14:25:52-05:00
+author: Lucia Kim
 categories: Dummy
 ---
 
