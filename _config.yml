@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lluciiiia.github.io" # the base hostname & protocol for your site
-cover: "/assets/castle_image.jpg"
+cover: "/assets/busan.jpg"
 logo: "/assets/lucialogo.JPEG"
 
 # Build settings
