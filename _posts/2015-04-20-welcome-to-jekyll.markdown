@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Reflective Journal 1
-date:   2022-08-22 18:43:59
+title:  It will be posted on Sep 22
+date:   2022-09-22 18:43:59
 author: Lucia
-categories: Reflective Journal
+categories: Research
 tags:	Rmit SoftwareEngineering
 cover:  "/assets/instacode.png"
 ---
