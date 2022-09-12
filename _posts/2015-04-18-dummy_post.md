@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "Reflective Journal 4"
 date:   2015-04-18T14:25:52-05:00
 author: Lucia Kim
-categories: Dummy
+categories: Reflection
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
