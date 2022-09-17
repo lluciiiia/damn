@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflective Journal 3"
-date:   2022-08-22T14:25:52-05:00
+date:   2022-09-05T14:25:52-05:00
 author: Lucia Kim (Seokyung Kim)
 categories: Reflection
 tags: Rmit
