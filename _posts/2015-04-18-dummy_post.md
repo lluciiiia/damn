@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflective Journal 4"
-date:   2015-04-18T14:25:52-05:00
+date:   2022-09-16T14:25:52-05:00
 author: Lucia Kim
 categories: Reflection
 ---
