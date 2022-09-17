@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflective Journal 2"
-date:   2022-08-22 08:43:59
+date:   2022-08-29 08:43:59
 author: Lucia Kim (Seokyung Kim)
 categories: Reflection
 tags: Rmit Software_Engineering
