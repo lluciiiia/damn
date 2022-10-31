@@ -19,7 +19,7 @@ School : Rmit
 
 Major : Software Engineering
 
-Persaonality : Extrovert, Practical, Energetic, Social, Confident, Optimistic, Flexible
+Persaonality : Extrovert, Practical, Energetic, Social, Confident, Optimistic, Flexible, Objective, Rational
 
 I prefer something Practical / Meaningful / Mindful / Specific
 
