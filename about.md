@@ -19,9 +19,12 @@ School : Rmit
 
 Major : Software Engineering
 
-Contact : 0617lucia@gmail.com (Personal account)
+Persaonality : Extrovert, Practical, Energetic, Social, Confident, Optimistic, Flexible
 
-   s3939114@rmit.edu.vn (Student account)
+I prefer something Practical / Meaningful / Mindful / Specific
+
+Contact : 0617lucia@gmail.com (Personal account)
+          s3939114@rmit.edu.vn (Student account)
           
   
   
